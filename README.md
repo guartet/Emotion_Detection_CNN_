@@ -25,3 +25,6 @@ copy these two files create model folder in your project directory and paste it.
 run your emotion detection test file
 python TestEmotionDetector.py
 
+# if you have any questions or remarks, do not hesitate to contact me.
+here is my email
+abdelhaq.guartet@usmba.ac.ma
